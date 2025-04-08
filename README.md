@@ -18,17 +18,7 @@ This project predicts solar radiation using weather parameters like temperature,
 
 ## 💡 Project Structure
 
-ML-Project/
-├── data/
-│   └── SolarPrediction.csv
-├── notebooks/
-│   └── renewable_energy_forecasting.ipynb
-├── models/
-│   └── (optional saved models)
-├── docs/
-│   └── ML PROJECT.pdf
-├── requirements.txt
-├── README.txt
+<pre> ``` ML-Project/ ├── data/ │ └── SolarPrediction.csv ├── notebooks/ │ └── renewable_energy_forecasting.ipynb ├── models/ │ └── (optional saved models) ├── docs/ │ └── ML PROJECT.pdf ├── requirements.txt └── README.txt ``` </pre>
 
 
 ## 🚀 How to Run
