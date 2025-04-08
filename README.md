@@ -3,7 +3,7 @@
 This project predicts solar radiation using weather parameters like temperature, humidity, wind speed, etc., using machine learning (XGBoost). It helps in forecasting renewable energy production, especially for solar energy systems.
 
 
-# 📂 Dataset
+## 📂 Dataset
 
 - Source: SolarPrediction.csv
 - Features Used:
@@ -16,7 +16,7 @@ This project predicts solar radiation using weather parameters like temperature,
   - Solar Radiation (kW/m²)
 
 
-# 💡 Project Structure
+## 💡 Project Structure
 
 ML-Project/
 ├── data/
@@ -31,7 +31,7 @@ ML-Project/
 ├── README.txt
 
 
-# 🚀 How to Run
+## 🚀 How to Run
 
 1. Clone this repository:
    git clone <your-repo-url>
@@ -48,7 +48,7 @@ ML-Project/
    jupyter notebook notebooks/renewable_energy_forecasting.ipynb
 
 
-# 📊 Results
+### 📊 Results
 
 - Model Used: XGBoost Regressor
 - Metrics:
@@ -56,7 +56,7 @@ ML-Project/
   - R² Score
 
 
-# 📌 Example Prediction
+### 📌 Example Prediction
 
 You can input a new set of weather conditions to get predicted solar radiation.
 
