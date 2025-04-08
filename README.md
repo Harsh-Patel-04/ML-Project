@@ -16,21 +16,6 @@ This project predicts solar radiation using weather parameters like temperature,
   - Solar Radiation (kW/m²)
 
 
-## 💡 Project Structure
-
-#### ML-Project/
-#### ├── data/
-#### │   └── SolarPrediction.csv
-#### ├── notebooks/
-#### │   └── renewable_energy_forecasting.ipynb
-#### ├── models/
-#### │   └── (optional saved models)
-#### ├── docs/
-#### │   └── ML PROJECT.pdf
-#### ├── requirements.txt
-#### ├── README.txt
-
-
 ## 🚀 How to Run
 
 1. Clone this repository:
