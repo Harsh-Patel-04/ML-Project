@@ -48,7 +48,7 @@ ML-Project/
    jupyter notebook notebooks/renewable_energy_forecasting.ipynb
 
 
-### 📊 Results
+## 📊 Results
 
 - Model Used: XGBoost Regressor
 - Metrics:
@@ -56,11 +56,11 @@ ML-Project/
   - R² Score
 
 
-### 📌 Example Prediction
+## 📌 Example Prediction
 
 You can input a new set of weather conditions to get predicted solar radiation.
 
 
-# 📚 License
+## 📚 License
 
 This project is open-source and free to use for educational purposes.
